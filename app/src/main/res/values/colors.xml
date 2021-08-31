@@ -5,6 +5,42 @@
     <color name="purple_700">#FF3700B3</color>
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+
+    <color name="title_color">#75888b</color>
+    <color name="details_light_gray">#7f7f7f</color>
+    <color name="header12">#E1E1E1</color>
+    <color name="bg_color">#edfcff</color>
+    <color name="dark_bg_color">#DCEFF6</color>
+    <color name="app_color">#388CA1</color>
+    <color name="light_sky">#EDFCFF</color>
+    <color name="purple">#544CA6</color>
+
+    <color name="red">#FF0000</color>
+    <color name="lightgrey">#999899</color>
+    <color name="barfontcolor">#7f7f7f</color>
+    <color name="light_gray">#f5f4f5</color>
+    <color name="button_gray">#f5f6f6</color>
+    <color name="light_grey">#DCDCDC</color>
+    <color name="green">#3db764</color>
+    <color name="light_green">#7DC875</color>
+    <color name="yellow">#f0ce33</color>
+    <color name="blue">#3DACFE</color>
+    <color name="dark_blue">#0F9FD4</color>
+
+    <color name="dialog_text">#7B99A1</color>
+
+    <color name="btn_color">#0394A9</color>
+    <color name="darkblue">#1890C4</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="gray">#808080</color>
+    <color name="tabbar_color">#0197A6</color>
+    <color name="light_orange">#E36E28</color>
+    <color name="dark_orange">#F16B50</color>
+    <color name="orage">#DE8946</color>
+    <color name="discountperc">#d68e74</color>
+    <color name="silver">#C0C0C0</color>
+
+    <color name="colorTransparent">#00000000</color>
+
 </resources>

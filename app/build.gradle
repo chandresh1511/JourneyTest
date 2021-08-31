@@ -36,4 +36,14 @@ dependencies {
     testImplementation 'junit:junit:4.+'
     androidTestImplementation 'androidx.test.ext:junit:1.1.3'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
+
+    //Response Parsing
+    implementation 'com.fasterxml.jackson.core:jackson-core:2.1.4'
+    implementation 'com.fasterxml.jackson.core:jackson-databind:2.1.4'
+    implementation 'com.fasterxml.jackson.core:jackson-annotations:2.1.4'
+
+    //api calling
+    implementation 'com.squareup.retrofit2:retrofit:2.7.2'
+    implementation 'com.squareup.retrofit2:converter-gson:2.7.2'
+    implementation 'com.squareup.okhttp3:okhttp:3.10.0'
 }
